@@ -2,7 +2,7 @@
 
 ## Sobre o Projeto
 
-Este site apresenta a pesquisa de TCC "Práticas Integrativas Mediadas por Tecnologias Digitais da Informação e Comunicação no Ambiente Escolar: Uma Abordagem para Promoção do Bem-estar e Qualidade de Vida", desenvolvida por Anderson Dias Pignata Cruz Macêdo na Monografia apresentada como requisito para a conclusão da pós-graduação lato sensu em Docência do Ensino Superior da Educação Física e Escolar. FACPRISMA – Faculdade de Ensino Superior LTDA.
+Este site apresenta a pesquisa de mestrado "Práticas Integrativas Mediadas por Tecnologias Digitais da Informação e Comunicação no Ambiente Escolar: Uma Abordagem para Promoção do Bem-estar e Qualidade de Vida", desenvolvida por Anderson Dias Pignata Cruz Macêdo no programa PROFNIT da Universidade Federal do Oeste da Bahia (UFOB).
 
 ## Características do Site
 
@@ -114,11 +114,10 @@ html_site/
 
 **Autor**: Anderson Dias Pignata Cruz Macêdo  
 **Orientador**: Prof. Dr. Genildo Ferreira Nunes  
-**Coorientadora**: Profa. Esp. Maria Eduarda Araújo Guimarães  
-**Programa**: FACPRISMA – Faculdade de Ensino Superior LTDA  
+**Coorientadora**: Profa. Dra. Maria Eduarda Araújo Guimarães  
+**Programa**: PROFNIT - UFOB  
 **Ano**: 2025
 
 ---
 
-*Este site foi desenvolvido como parte da apresentação da pesquisa de pós-graduação sobre práticas integrativas no ambiente escolar, contribuindo para a divulgação científica e aplicação prática dos resultados obtidos.*
-
+*Este site foi desenvolvido como parte da apresentação da pesquisa de mestrado sobre práticas integrativas no ambiente escolar, contribuindo para a divulgação científica e aplicação prática dos resultados obtidos.*
