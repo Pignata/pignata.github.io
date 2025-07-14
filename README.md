@@ -121,3 +121,4 @@ html_site/
 ---
 
 *Este site foi desenvolvido como parte da apresentação da pesquisa de mestrado sobre práticas integrativas no ambiente escolar, contribuindo para a divulgação científica e aplicação prática dos resultados obtidos.*
+
